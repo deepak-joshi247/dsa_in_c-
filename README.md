@@ -15,7 +15,7 @@ their content in further its blocks .
         }
         2.bubble_sort.cpp:
         {
-            a way to sort array by swapping its side element.
+                  a way to sort array by swapping its side element.
             condition of second for loop is still hard to understand.
             cont is used to break loop if array is sorted before full end to 
             decrease time complexity ( i.e. < O(n^2) ).
