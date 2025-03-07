@@ -21,3 +21,4 @@ their content in further its blocks .
             decrease time complexity ( i.e. < O(n^2) ).
         }
     }
+2. there are some linked list question here with their method name or title name
