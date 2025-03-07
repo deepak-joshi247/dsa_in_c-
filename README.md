@@ -22,3 +22,4 @@ their content in further its blocks .
         }
     }
 2. there are some linked list question here with their method name or title name
+3. p.s. i cant understand how to make folder here so i might not anything extra concept in it  so i might make a new repository by that content name
